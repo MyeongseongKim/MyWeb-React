@@ -108,7 +108,8 @@ const SelfIntroduction = () => {
                 After receiving
                 &nbsp;B.Sc.(Industrial Design, minor: Mechanical Engineering) and
                 &nbsp;M.Sc.(Industrial Design, from <Anchor href="https://wonderlab.kaist.ac.kr" target="_blank">WonderLab</Anchor>), 
-                I am working as a Mechatronics Engineer at <Anchor href="https://www.bearrobotics.ai/" target="_blank">Bear Robotics</Anchor>.
+                {/* I am working as a Mechatronics Engineer at <Anchor href="https://www.bearrobotics.ai/" target="_blank">Bear Robotics</Anchor>. */}
+                I am working as a Software Engineer & Researcher at <Anchor href="https://maxst.com/" target="_blank">MAXST</Anchor>.
             </Text>
         </SelfIntro>
     );
