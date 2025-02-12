@@ -47,6 +47,16 @@ const Text = styled.p`
     }
 `;
 
+const Note = styled.p`
+    font-weight: 300;
+    font-size: 1.0rem;
+    margin: 0.25em 0em;
+
+    @media screen and (min-width: 1024px) {
+        font-size: 1.2rem;
+    }
+`;
+
 const Anchor = styled.a`
     color: var(--black-ink);
     text-decoration-color: var(--black-ink);
@@ -138,7 +148,7 @@ const CardGrid = styled.div`
 
 
 export { 
-    Wrapper, Header, SubHeader, BlankLine, Text, Anchor, Accent, 
+    Wrapper, Header, SubHeader, BlankLine, Text, Note, Anchor, Accent, 
     OneShot, MultiShots, Video,
     CardList, CardGrid 
 };
