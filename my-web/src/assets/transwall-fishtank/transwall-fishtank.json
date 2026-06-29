@@ -1,11 +1,11 @@
 {
     "id" : 9,
-    "directory" : "fishtank-jelly",
+    "directory" : "transwall-fishtank",
     
-    "title" : "Fishtank: jelly",
+    "title" : "Fishtank for TransWall++",
     "date" : "Aug, 2021",
     "team" : "Myeongseong Kim, Woohun Lee",
-    "thumbnail" : "fishtank-jelly_thumbnail.jpg",
+    "thumbnail" : "transwall-fishtank_thumbnail.jpg",
     "summary" : [
         "A virtual fish tank filled with artificial jellyfishes for a both-side multitouch transparent display. ", 
         "The jellyfishes are reactive on touch and float following the flow users create. "
@@ -31,9 +31,9 @@
         {"link": "https://doi.org/10.1145/2559206.2574828"},
         {"blank" : ""},
         
-        {"img" : "fishtank-jelly_closedshot.jpg"},
-        {"img" : "fishtank-jelly_fullshot.jpg"},
-        {"img" : "fishtank-jelly_interaction.jpg"},
-        {"img" : "fishtank-jelly_users.jpg"}
+        {"img" : "transwall-fishtank_closedshot.jpg"},
+        {"img" : "transwall-fishtank_fullshot.jpg"},
+        {"img" : "transwall-fishtank_interaction.jpg"},
+        {"img" : "transwall-fishtank_users.jpg"}
     ]
 }

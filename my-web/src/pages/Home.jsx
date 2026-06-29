@@ -123,7 +123,7 @@ const Home = () => {
     let objs = [];
     objs[0] = data(`./dot/dot.json`);
     objs[1] = data(`./isle-of-reflections/isle-of-reflections.json`);
-    objs[2] = data(`./fishtank-jelly/fishtank-jelly.json`);
+    objs[2] = data(`./transwall-fishtank/transwall-fishtank.json`);
     objs[3] = data(`./phantom/phantom.json`);
     objs[4] = data(`./under-the-cherry-blossom/under-the-cherry-blossom.json`);
     objs[5] = data(`./time-to-snow/time-to-snow.json`);
