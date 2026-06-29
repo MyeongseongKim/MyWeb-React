@@ -1,0 +1,35 @@
+{
+    "id" : 17,
+    "directory" : "murmuration",
+    
+    "title" : "Murmuration: Chromatic Chorus",
+    "date" : "Jun, 2026",
+    "team" : "Myeongseong Kim, Ahyeon Lee, Joo-Hong Shin, Gaeun Kang, NaYeon Lee, Bora Youn, Donghyeon Son",
+    "thumbnail" : "murmuration_thumbnail.jpg",
+    "summary" : [
+        "A multi-user XR installation that transforms hand-folded and personalized paper birds into virtual agents. ", 
+        "Participants encounter these birds together in a shared immersive environment, forming a collective experience."
+    ],
+    "publication" : "siggraphasia2026.png",
+    
+    "fullcontent" : [
+        {"video": "https://www.youtube.com/embed/i58t3ELvNH8"},
+        {"blank" : ""},
+
+        {"paragraph" : [
+            "Murmuration: Chromatic Chorus is a participatory XR installation where hand-crafted paper birds become persistent virtual agents. ", 
+            "Carrying each participant’s colors, patterns, and voice, they leave thread-like trails and sing through accidental encounters. ",
+            "The work weaves individual traces into a chromatic chorus of collective memory within an evolving virtual ecology across time."
+        ]},
+        {"blank" : ""},
+        
+        {"img" : "murmuration_heroshot.jpg"},
+        {"blank" : ""},
+
+        {"img" : "murmuration_additional1.jpg"},
+        {"blank" : ""},
+
+        {"img" : "murmuration_additional2.jpg"},
+        {"blank" : ""}    
+    ]
+}
