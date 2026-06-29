@@ -14,18 +14,16 @@
     "fullcontent" : [
 
         {"paragraph" : [
-            "“Video comming soon.”" 
+            "“Not Yet Publicly Exhibited”" 
         ]},
         {"blank" : ""},
         {"blank" : ""},
 
-        {"paragraph" : [
-            "“Wish Blossom” is an interactive installation that creates a magical experience, ", 
-            "inviting visitors to interact with gently fluttering cherry blossom petals carried by a soft spring breeze, ", 
-            "sending their wishes and immersing themselves in the moment. ",
-            "Cherry blossoms, often seen as a symbol of spring and fleeting beauty, carry the myth that catching a falling petal can make a wish come true. ", 
-            "The installation mirrors a parallel between the limited duration of a festive exhibition and the ephemeral nature of cherry blossoms, ", 
-            "while capturing the essence of the visitors’ wishes and expressing the hope that they will come true. "
+        {"paragraph" : [       
+            "“Wish Blossom” is an interactive kinetic installation that treats each visitor’s wish as a raw, intangible fiber and spins it into a temporary material phenomenon of air, petals, pressure, and language. ", 
+            "Rather than presenting a wish as a message to be displayed, the work asks how an inner desire can become physically perceptible. ", 
+            "Cherry blossoms, associated with spring, fleeting beauty, and the myth that catching a falling petal can make a wish come true, provide its cultural and material ground. Within this symbolic frame, ",
+            "Wish Blossom transforms private wishes into fragile atmospheric events that appear, drift, gather, and disappear. "
         ]},
         {"blank" : ""},
         
@@ -33,7 +31,7 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "“More details coming soon.”" 
+            "“Not Yet Publicly Exhibited.”" 
         ]},
         {"blank" : ""}
     
