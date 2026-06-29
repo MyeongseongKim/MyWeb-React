@@ -1,13 +1,13 @@
 {
     "id" : 14,
-    "directory" : "speaker-glasscatfish",
+    "directory" : "sound-pocket",
     
-    "title" : "Speaker: glass-catfish",
+    "title" : "Sound Pocket",
     "date" : "Oct, 2022",
     "team" : "Myeongseong Kim, WONWOORI(Wonwoo Lee)",
-    "thumbnail" : "speaker-glasscatfish_thumbnail.jpg",
+    "thumbnail" : "sound-pocket_thumbnail.jpg",
     "summary" : [
-        "A speaker type of circuit sculpture with audio visualizing using light. "
+        "A circuit-sculpture speaker object that visualizes sound through LED light panels and creates acoustic distortion through an adjustable metal reflector placed in front of the speaker module."
     ],
     
     "fullcontent" : [
@@ -35,8 +35,8 @@
         ]},
         {"blank" : ""},
 
-        {"img" : "speaker-glasscatfish_sketch.jpg"}, 
-        {"img" : "speaker-glasscatfish_heroshot.jpg"}, 
-        {"img" : "speaker-glasscatfish_additional1.jpg"}
+        {"img" : "sound-pocket_sketch.jpg"}, 
+        {"img" : "sound-pocket_heroshot.jpg"}, 
+        {"img" : "sound-pocket_additional1.jpg"}
     ]
 }
