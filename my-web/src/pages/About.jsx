@@ -223,6 +223,22 @@ const About = () => {
             <Wrapper>
                 <OneColumn>
                     <Publication
+                        title="TF-Shell: Facilitating Physical Deformation with Iterative and Shape Memory Thermoforming for 3D Printing"
+                        authors="Donghyeon Ko, Myeongseong Kim, Yoonji Kim, Woohun Lee"
+                        proceeding="Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, Article 876, 1-20"
+                        doi="https://doi.org/10.1145/3772318.3791247"
+                    > </Publication>
+                </OneColumn>
+                <OneColumn>
+                    <Publication
+                        title="StreamSplat: A Hybrid Client-Server Architecture for Neural Graphics using Depth-based Fusion on the Web"
+                        authors="Sehyeon Park, Yechan Yang, Myeongseong Kim, Byounghyun Yoo"
+                        proceeding="Proceedings of the 30th International Conference on 3D Web Technology, 1-10"
+                        doi="https://doi.org/10.1145/3746237.3746316"
+                    > </Publication>
+                </OneColumn>
+                <OneColumn>
+                    <Publication
                         title="Time to Snow"
                         authors="Myeongseong Kim, Sunwoo Baek, Woohun Lee"
                         proceeding="ACM SIGGRAPH 2023 Art Gallery (SIGGRAPH '23), Article 14, 1-2"
