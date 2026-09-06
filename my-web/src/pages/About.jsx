@@ -146,7 +146,7 @@ const About = () => {
                 </TwoColumn>
                 <TwoColumn>
                     <Text>
-                        <Accent> Research Assistant at Wonder Lab, KAIST </Accent> <br/>
+                        <Accent> Graduate Researcher at Wonder Lab, KAIST </Accent> <br/>
                         HCI, Interaction Design, New Media <br/>
                     </Text>
                     <Period> Aug. 2020 –<br/> Sep. 2023 </Period>
