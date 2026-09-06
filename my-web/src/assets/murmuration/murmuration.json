@@ -18,14 +18,32 @@
 
         {"paragraph" : [
             "Murmuration: Chromatic Chorus is a participatory XR installation where hand-crafted paper birds become persistent virtual agents. ", 
-            "Carrying each participant’s colors, patterns, and voice, they leave thread-like trails and sing through accidental encounters. ",
-            "The work weaves individual traces into a chromatic chorus of collective memory within an evolving virtual ecology across time."
+            "Visitors fold and decorate a paper bird, then record a short vocal gesture. ",
+            "Carrying each participant’s colors, patterns, and voice, the bird crosses into XR as a living trace of its maker, joining a shared virtual flock where individual marks become flight, sound, and relational trails. ",
+            "The work investigates how physical traces become virtual presences, how non-living artifacts acquire agency and relational meaning, how participants perceive and connect with these entities, and how their encounters accumulate into collective movement, social connection, and shared memory."
         ]},
         {"blank" : ""},
-        
+
         {"img" : "murmuration_heroshot.jpg"},
         {"blank" : ""},
 
+        {"paragraph" : [
+            "Inside the multi-user XR space, each bird flies among birds created by current and previous visitors, leaving a thread-like trail drawn from the main color of its paper body. ",
+            "These lingering trails cross and layer in the air, gradually stitching the space into a chromatic fabric of flight. ",
+            "When a bird touches another trace, it releases its call, turning accidental collisions into fragments of an unpredictable chorus. ",
+            "In this sense, Chromatic Chorus refers both to the visual and sonic composition of colored trails and bird calls, and to a plural harmony in which distinct participant-made beings keep their individuality while resonating with others."
+        ]},
+        {"blank" : ""},
+
+        {"paragraph" : [
+            "The birds do not disappear after a single visit. ",
+            "They remain in the virtual world, continuing to move, sound, and shape future encounters as part of an evolving ecology. ",
+            "New visitors therefore enter a space already inhabited by others’ colors, voices, flights, and collisions, adding their own bird to a growing field of traces. ",
+            "Through these accumulated encounters, participants become connected not only to those sharing the space in the present, but also to those who have already left it. ",
+            "Murmuration: Chromatic Chorus explores how XR can weave physical traces into virtual presence, presence into relation, and relation into a living ecology of collective memory."
+        ]},
+        {"blank" : ""},
+        
         {"img" : "murmuration_additional1.jpg"},
         {"blank" : ""},
 
