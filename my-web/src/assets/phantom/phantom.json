@@ -7,8 +7,8 @@
     "team" : "Myeongseong Kim, Junbeom Shin, Donghyeon Ko, Woohun Lee",
     "thumbnail" : "phantom_thumbnail.jpg",
     "summary" : [
-        "Phantom is an installation that interacts with virtually invisible beings by putting a pebble on the board. ", 
-        "By focusing ultrasonic vibrations on one point, it can draw patterns by pushing away the dust. "
+        "A media art installation inspired by nature's antifouling strategies. ",
+        "Ultrasonic vibrations push away fine particles to reveal hidden patterns, turning surface hygiene into an interactive experience."
     ],
 
     "fullcontent" : [
@@ -16,16 +16,38 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "Phantom is an installation that interacts with virtually invisible beings by putting a pebble on the board. ", 
-            "By focusing ultrasonic vibrations on one point, it can draw patterns by pushing away the dust. "
+            "Phantom is an interactive media art installation that uses ultrasonic vibrations to reveal hidden patterns on a surface. ",
+            "Visitors interact with the installation by placing a pebble on the board. ",
+            "The system uses calibrated ultrasonic vibrations to selectively push fine particles away from the surface, gradually revealing intricate patterns. ",
+            "As the particles move, an invisible force becomes visible through the traces it leaves behind."
+        ]},
+        {"paragraph" : [
+            "The project draws inspiration from the antifouling properties of cicada and dragonfly wings, whose nanoscale pillars help keep their surfaces clean. ",
+            "Translating this biological principle into an ultrasonic system, Phantom investigates how waves might produce similar repulsive effects, ",
+            "exploring a new approach to surface hygiene through biomimicry."
+        ]},
+        {"paragraph" : [
+            "By turning the act of clearing a surface into an aesthetic experience, Phantom invites reflection on the relationship between hygiene, nature, and technology. ",
+            "The work was featured in Nature Observation 2.0, an exhibition hosted by HMG from November 22 to December 2, 2021."
         ]},
         {"blank" : ""},
         
         {"img" : "phantom_heroshot.png"},
+        {"blank" : ""},
+
         {"img" : "phantom_footprints.jpg"},        
+        {"blank" : ""},
+
         {"img" : "phantom_hi.jpg"},
+        {"blank" : ""},
+
         {"img" : "phantom_spiral.jpg"},
+        {"blank" : ""},
+
         {"img" : "phantom_installation.jpg"},
-        {"img" : "phantom_ultraleap.jpg"}
+        {"blank" : ""},
+
+        {"img" : "phantom_ultraleap.jpg"},
+        {"blank" : ""}
     ]
 }
