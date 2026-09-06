@@ -7,7 +7,7 @@
     "team" : "Myeongseong Kim, WONWOORI(Wonwoo Lee)",
     "thumbnail" : "sound-pocket_thumbnail.jpg",
     "summary" : [
-        "A circuit-sculpture speaker object that visualizes sound through LED light panels and creates acoustic distortion through an adjustable metal reflector placed in front of the speaker module."
+        "A speaker type of circuit sculpture that visualizes sound through LED light panels and creates acoustic distortion through an adjustable metal reflector placed in front of the speaker module."
     ],
     
     "fullcontent" : [
@@ -15,28 +15,30 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "A speaker type of circuit sculpture with audio visualizing using light. ", 
-            "Technically, the circuit sculpture inside works as an audio amp, ", 
-            "and the bottom part read the audio signals and visualize it using light panels. ", 
-            "A metal mirror on top is able to customize its height and tilt, and it leads to create acoustic distortion."
+            "Sound Pocket is a circuit-sculpture speaker that translates sound into light. ",
+            "Its three-dimensional circuitry functions as an audio amplifier, while LED panels at the base respond to the audio signal. ",
+            "A metal reflector above the speaker can be adjusted in height and tilt to alter how sound is reflected, creating acoustic distortion."
         ]},
         {"blank" : ""},
 
         {"paragraph" : [
-            "Like a glass catfish that shows all organs through transparent skin, ", 
-            "the exterior of this speaker is made of an transparent acrylic cylinder. ", 
-            "Also, the circuit is not a 2D layer PCB, but a three-dimensional circuit structure, ", 
-            "so each elctronic component looks like a life organ. "
+            "Inspired by the glass catfish, whose internal organs are visible through its transparent body, Sound Pocket houses its circuitry in a clear acrylic cylinder. ",
+            "Instead of lying flat on a printed circuit board, the electronic components form a three-dimensional structure, resembling organs within a transparent body."
         ]},
         {"blank" : ""},
 
         {"paragraph" : [
-            "The three speakers were displayed at the exhibition, WOW-FLOW, ZER01NE DAY 2022. "
+            "Three Sound Pocket speakers were used in WOW-Flow at ZER01NE DAY 2022 and in Widening Waves as part of Random Access Project 3.0 at the Nam June Paik Art Center in 2023."
         ]},
         {"blank" : ""},
 
         {"img" : "sound-pocket_sketch.jpg"}, 
+        {"blank" : ""},
+
         {"img" : "sound-pocket_heroshot.jpg"}, 
-        {"img" : "sound-pocket_additional1.jpg"}
+        {"blank" : ""},
+        
+        {"img" : "sound-pocket_additional1.jpg"}, 
+        {"blank" : ""}
     ]
 }
