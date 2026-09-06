@@ -111,8 +111,10 @@ const Home = () => {
     objs[1] = data(`./isle-of-reflections/isle-of-reflections.json`);
     objs[2] = data(`./transwall-fishtank/transwall-fishtank.json`);
     objs[3] = data(`./phantom/phantom.json`);
-    objs[4] = data(`./under-the-cherry-blossom/under-the-cherry-blossom.json`);
-    objs[5] = data(`./time-to-snow/time-to-snow.json`);
+    objs[4] = data(`./sound-pocket/sound-pocket.json`);
+    objs[5] = data(`./under-the-cherry-blossom/under-the-cherry-blossom.json`);
+    objs[6] = data(`./time-to-snow/time-to-snow.json`);
+    objs[7] = data(`./murmuration/murmuration.json`);
     objs.reverse();
 
     const cards = objs.map((obj) => (
