@@ -181,16 +181,6 @@ const About = () => {
 
             <Header> Skills </Header>
             <Wrapper>
-                {/* <OneColumn>
-                    <Text>
-                        <Accent> Design </Accent> : Design Thinking, Prototyping, UX Analysis
-                    </Text>
-                </OneColumn> */}
-                {/* <OneColumn>
-                    <Text>
-                        <Accent> Engineering </Accent> : Software Programming, Electrical Circuit Design, Mechanical Design
-                    </Text>
-                </OneColumn> */}
                 <OneColumn>
                     <Text>
                         <Accent> Software Development </Accent> : Unity (C#, HLSL), React (JavaScript, CSS, HTML), Processing (Java)
@@ -199,6 +189,11 @@ const About = () => {
                 <OneColumn>    
                     <Text>
                         <Accent> Embedded & Physical Computing </Accent> : Arduino (C/C++), Raspberry Pi (Python), Eagle CAD
+                    </Text>
+                </OneColumn>
+                <OneColumn>    
+                    <Text>
+                        <Accent> Robotics & Simulation </Accent> : ROS 2 (Python, C++), MoveIt, MuJoCo, Isaac Sim
                     </Text>
                 </OneColumn>
                 <OneColumn>
