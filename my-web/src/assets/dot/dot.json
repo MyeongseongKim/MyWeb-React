@@ -7,9 +7,8 @@
     "team" : "Myeongseong Kim, Woohun Lee, Andrea Bianchi",
     "thumbnail" : "dot_thumbnail.jpg",
     "summary" : [
-        "DoT is a tabletop mixed-reality game platform with kinetic interaction in the real world. ", 
-        "Users can play the game by touching and moving the marble as input. ", 
-        "As output, the marble moves with visual graphics of the display. "
+        "DoT is a tabletop mixed-reality game platform that brings a physical marble into a digital game. ",
+        "Players touch and move the marble on a display, while the system moves it in sync with on-screen graphics."
     ],
 
     "fullcontent" : [
@@ -17,21 +16,21 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "DoT is a tabletop mixed-reality game platform with kinetic interaction in the real world. ", 
-            "Users can play the game by touching and moving the marble as input. ", 
-            "As output, the marble moves with visual graphics of the display. "
+            "DoT is a tabletop mixed-reality game platform in which a steel marble serves as both a game controller and a moving game piece. ",
+            "Players interact with the game by touching and moving the marble directly on a display. ",
+            "The system responds through on-screen graphics and the marble's physical movement, connecting digital gameplay with an object players can hold and manipulate."
         ]},
         {"blank" : ""},
 
         {"paragraph" : [
-            "Under the display panel, there is a 2D floater(like a CNC machine) with a magnet on its head. ", 
-            "Therefore, the steel-made marble on the display panel is dragged to the head. ",
-            "Also, the capacitive touch panel and the conductive marble make it possible to detect whether players touch the marble and its position. "
+            "Beneath the display, a motorized two-axis mechanism carries a magnet that guides the steel marble across the screen. ",
+            "When a player touches the conductive marble, the capacitive touch panel detects the contact and the marble's position. ",
+            "Together, touch sensing and magnetic actuation allow the same object to receive player input and provide physical feedback."
         ]},
         {"blank" : ""},
 
         {"paragraph" : [
-            "The course project from [Interactive Product Design - Spring 2018, instructor: Prof. Woohun Lee] & [Graduation Design Studio II - Fall 2018, advisor: Prof. Andrea Bianchi]"
+            "Developed through Interactive Product Design (Spring 2018, instructor: Prof. Woohun Lee) and Graduation Design Studio II (Fall 2018, advisor: Prof. Andrea Bianchi)."
         ]},
         {"blank" : ""},
         
