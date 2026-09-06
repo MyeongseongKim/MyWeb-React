@@ -7,25 +7,24 @@
     "team" : "Myeongseong Kim, Woohun Lee",
     "thumbnail" : "transwall-fishtank_thumbnail.jpg",
     "summary" : [
-        "A virtual fish tank filled with artificial jellyfishes for a both-side multitouch transparent display. ", 
-        "The jellyfishes are reactive on touch and float following the flow users create. "
+        "An interactive virtual aquarium for TransWall++, a transparent display that responds to touch from both sides. ",
+        "Virtual jellyfish glow, make sounds, and drift with currents created by visitors' touch. "
     ],
     "fullcontent" : [
         {"video": "https://www.youtube.com/embed/XXqeyNw1NcA"},
         {"blank" : ""},
 
         {"paragraph" : [
-            "A virtual fish tank filled with artificial jellyfishes for a both-side multitouch transparent display. ", 
-            "Taking the reverse view that transparent displays cannot render opaque objects, ",
-            "we designed the interactive content filled with transparent jellyfish. ",
-            "The artificial jellyfishes are reactive to touch, glowing and making a sound. ", 
-            "In addition, the audience can create flows by touching and dragging the panel, and the jellyfishes float following the flows. "
+            "Fishtank for TransWall++ turns a transparent display into a shared virtual aquarium, allowing visitors on either side to interact with jellyfish while seeing one another through the screen. ",
+            "The design embraces the display's inability to render fully opaque objects: translucent jellyfish make transparency a natural part of the underwater scene. ",
+            "The jellyfish glow and produce sounds when touched, while dragging a hand across the glass creates currents that guide their movement. "
         ]},
         {"blank" : ""},
 
         {"paragraph" : [
-            "TransWall, a transparent display with both-side multitouch including the content, has been installed at Nexperium, Shinsegae Art & Science, Daejeon, Republic of Korea, since August 2021. ",
-            "If you want to know details of TransWall, refer belows."
+            "The fishtank was presented on TransWall++ for the opening of Nexperium at Shinsegae Art & Science in Daejeon, South Korea, in August 2021. ",
+            "Its approximately 90-inch transparent display combines infrared touch sensing, holographic screen film, and two ultra-short-throw projectors to support interaction from both sides, with surface transducers providing tactile feedback. ",
+            "The following publications describe the research on TransWall. "
         ]},
         {"link": "https://doi.org/10.1145/2503368.2503382"},
         {"link": "https://doi.org/10.1145/2559206.2574828"},
