@@ -7,8 +7,7 @@
     "team" : "Myeongseong Kim, Seokhyung Bae",
     "thumbnail" : "under-the-cherry-blossom_thumbnail.jpg",
     "summary" : [
-        "A VR content interacting with cherry blossom petals by creating flows of air through mid-air hand gestures. ",
-        "With HMD, people can play with virtual cherry blossom petals waving their bare hands in the air. "
+        "An interactive VR experience that lets users stir, lift, and scatter falling cherry blossom petals through natural mid-air hand gestures. "
     ], 
     "preview" : "demo.gif",
     
@@ -17,9 +16,8 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "A VR content interacting with cherry blossom petals by creating flows of air through mid-air hand gestures. ",
-            "With HMD, people can play with virtual cherry blossom petals waving their bare hands in the air. ", 
-            "It produces feeling of both realistic and fantasy. "
+            "Under the Cherry Blossom is an interactive VR artwork that lets users stir, lift, and scatter falling petals with their bare hands. ",
+            "Combining hand tracking with simulated fluid flow, it turns a fleeting encounter with cherry blossoms into an immersive experience that blends familiar motion with playful possibilities. "
         ]},
         {"blank" : ""},
 
@@ -28,11 +26,9 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "Every spring, the cherry blossoms are in full bloom. ",
-            "The trees full with cherry blossoms themselves are beautiful, but falling petals and flutting in wind are also spectacular. ", 
-            "However, it's not always easy to witness this spectacle moment in person. ", 
-            "Cherry blossoms only bloom for a short time of year, about a week or two, and they used to fade quickly depending on weather. ", 
-            "Because of their ephemeral uniqueness, cherry blossoms have been the subject of many art pieces."
+            "Cherry blossom petals scattering in the wind create a beautiful but fleeting spectacle. ",
+            "Their brief season and sensitivity to weather make this moment difficult to experience in person. ",
+            "Inspired by this transience and its presence in art, the project explores how VR can recreate the scene and extend the ways people interact with it. "
         ]},
         {"blank" : ""},
 
@@ -52,9 +48,10 @@
         {"blank" : ""},
 
         {"paragraph" : [
-            "It would be best if I could observe how people behave in a falling cherry blossom environment. ",
-            "However, it was not easy to conduct the study during that specific season when cherry blossom falling, so I recreated the situation as closely as possible. ", 
-            "Then, I observed the behavior of the subjects in the recreated environment and conducted interviews. "
+            "A formative study used small pieces of tissue paper as artificial petals to explore how people wanted to interact with them. ",
+            "Participants tried catching, sweeping, and throwing the petals, as well as arranging them into patterns. ",
+            "They also wanted their hands to generate stronger currents than air normally allows, more like moving through water. ",
+            "These observations guided the focus on stirring, lifting, and scattering petals through hand gestures. "
         ]},
         {"blank" : ""},
         
@@ -94,8 +91,9 @@
 
         {"link" : "https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf"},
         {"paragraph" : [
-            "The 3D fluid dynamics simulation was implemented by extending Jos Stam's paper, 'Real-Time Fluid Dynamics for Games'(the link above). ",
-            "Then, I designed the algorithms for how petal-mimic particles move in a fluid field, and how the users create fluid flows using their hand gestures. "
+            "The system combines a 3D fluid simulation, petal-like particles, and mid-air gesture interaction. ",
+            "Extending Jos Stam's 'Real-Time Fluid Dynamics for Games' into three dimensions, it uses a simplified, liquid-like flow to create responsive, visually convincing motion. ",
+            "Petals move and rotate in response to the surrounding flow and their orientation, producing varied, fluttering movements. "
         ]},
         {"blank" : ""},
 
@@ -118,8 +116,20 @@
         ]},
         {"blank" : ""},
 
+        {"paragraph" : [
+            "Oculus hand tracking translates hand movement and openness into fluid flow: an open palm creates a stronger current than a closed fist. ",
+            "The current is directed mainly by the palm's orientation, allowing users to guide petals intuitively by sweeping their hands through the scene. "
+        ]},
+        {"blank" : ""},
+
         {"blank" : ""},
         {"chapter": "Demonstration"},
+        {"blank" : ""},
+
+        {"paragraph" : [
+            "The prototype demonstrated relatively natural interaction between hands, fluid flow, and virtual petals. ",
+            "Future work could explore direct contact with petals, interaction with those gathered on the ground, and shared experiences, while refining the simulation and the artwork. "
+        ]},
         {"blank" : ""},
             
         {"imgs" : [
