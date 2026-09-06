@@ -322,62 +322,94 @@ const About = () => {
 
             <Header> Exhibitions </Header>
             <Wrapper>
-                {/* <TwoColumn>
-                    <Text>
-                        <Accent> Time to Snow </Accent> <br/> 
-                        Blueprint: Feasible Blue 
-                    </Text>
-                    <Period> 17 – 22. Dec. 2023</Period> 
-                </TwoColumn> */}
                 <TwoColumn>
                     <Text>
-                        <Accent> Time to Snow </Accent> <br/> 
-                        SIGGRAPH 2023 ArtGallery 
+                        <Accent> ACM SIGGRAPH Asia 2026 XR </Accent> <br/>
+                        <i> Kuala Lumpur Convention Centre, Kuala Lumpur, Malaysia </i> <br/>
+                        &ndash; <Accent> Murmuration: Chromatic Chorus </Accent>
                     </Text>
-                    <Period> 6 – 10. Aug. 2023</Period> 
+                    <Period> (Upcoming) Dec. 2 – 4, 2026 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> KAIST ID Exhibition 2024: Crossing Over — Innovation and Boundaries </Accent> <br/>
+                        <i> Ground Seoul, Seoul, Republic of Korea </i> <br/>
+                        &ndash; <Accent> Snow Message </Accent>
+                    </Text>
+                    <Period> Dec. 18 – 26, 2024 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> Noli: Korean Games </Accent> <br/>
+                        <i> Korean Cultural Center in France, Paris, France </i> <br/>
+                        &ndash; <Accent> Snow Message </Accent>
+                    </Text>
+                    <Period> May 24 – Oct. 5, 2024 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> KAIST ID Exhibition 2023: Blueprint — Feasible Blue </Accent> <br/>
+                        <i> ONDREAM SOCIETY, Seoul, Republic of Korea </i> <br/>
+                        &ndash; <Accent> Time to Snow </Accent>
+                    </Text>
+                    <Period> Dec. 17 – 22, 2023 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> Random Access Project 3.0 </Accent> <br/>
+                        <i> Nam June Paik Art Center, Yongin, Republic of Korea </i> <br/>
+                        &ndash; <Accent> Widening Waves </Accent>
+                    </Text>
+                    <Period> Sep. 26 – Oct. 22, 2023 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> ACM SIGGRAPH 2023 Art Gallery </Accent> <br/>
+                        <i> Los Angeles Convention Center, Los Angeles, CA, USA </i> <br/>
+                        &ndash; <Accent> Time to Snow </Accent>
+                    </Text>
+                    <Period> Aug. 6 – 10, 2023 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> NATURE WEEK Exploration: HMG Nature Observation 2.0 </Accent> <br/>
+                        <i> Hyundai Motor Group Namyang R&amp;D Center, Republic of Korea </i> <br/>
+                        &ndash; <Accent> Phantom: Interact with Invisible Beings </Accent>
+                    </Text>
+                    <Period> Nov. 22 – Dec. 2, 2022 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> 2022 ZER01NE DAY </Accent> <br/>
+                        <i> ZER01NE, Seoul, Republic of Korea </i> <br/>
+                        &ndash; <Accent> WOW-FLOW </Accent>
+                    </Text>
+                    <Period> Sep. 30 – Oct. 3, 2022 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> Long-term Exhibition at Nexperium </Accent> <br/>
+                        <i> Nexperium, Daejeon Shinsegae Art &amp; Science, Daejeon, Republic of Korea </i> <br/>
+                        &ndash; <Accent> TransWall++ </Accent>
+                    </Text>
+                    <Period> Aug. 2021 – Aug. 2024 </Period>
+                </TwoColumn>
+                <TwoColumn>
+                    <Text>
+                        <Accent> ACM SIGGRAPH 2021 Art Gallery </Accent> <br/>
+                        <i> Online / Virtual Exhibition </i> <br/>
+                        &ndash; <Accent> Isle of Reflections </Accent>
+                    </Text>
+                    <Period> Aug. 9 – 13, 2021 </Period>
                 </TwoColumn>
                 {/* <TwoColumn>
                     <Text>
-                        <Accent> Snow Clock </Accent> <br/>
-                        Inventive Minds and Ideas, Seoul DDP
+                        <Accent> HCI Korea 2020 Creative Award  </Accent> <br/>
+                        <i> Online / Virtual Exhibition </i> <br/>
+                        &ndash; <Accent> Snow Clock </Accent>
                     </Text>
-                    <Period> 17. Dec. – 26. Dec. 2022</Period>
+                    <Period> 19 – 21. Aug. 2020 </Period>
                 </TwoColumn> */}
-                <TwoColumn>
-                    <Text>
-                        <Accent> WOW-Flow </Accent> <br/>
-                        ZER01NE DAY 2022 
-                    </Text>
-                    <Period> 30. Sep. – 3. Oct. 2022</Period>
-                </TwoColumn>
-                <TwoColumn>
-                    <Text>
-                        <Accent> Phantom: interact with invisible beings </Accent> <br/> 
-                        NATURE WEEK Exploration HMG Nature Observation 2.0 
-                    </Text> 
-                    <Period> 22. Nov. – 2. Dec. 2021</Period> 
-                </TwoColumn>
-                <TwoColumn>
-                    <Text>
-                        <Accent> TransWall </Accent> <br/> 
-                        Nexperium, Shinsegae Art & Science 
-                    </Text>
-                    <Period> 27. Aug. 2021 – </Period>
-                </TwoColumn>
-                <TwoColumn>
-                    <Text>
-                        <Accent> Isle of Reflections </Accent> <br/> 
-                        SIGGRAPH 2021 ArtGallery 
-                    </Text>
-                    <Period> 9 – 13. Aug. 2021</Period> 
-                </TwoColumn>
-                <TwoColumn>
-                    <Text>
-                        <Accent> Snow Clock </Accent> <br/> 
-                        HCI Korea 2020 Creative Award 
-                    </Text>
-                    <Period> 19 – 21. Aug. 2020</Period>           
-                </TwoColumn>
             </Wrapper>
             <Text> &nbsp; </Text>
             
