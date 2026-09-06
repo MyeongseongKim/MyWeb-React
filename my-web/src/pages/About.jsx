@@ -413,7 +413,7 @@ const About = () => {
             </Wrapper>
             <Text> &nbsp; </Text>
             
-            <Header> Additionals </Header>
+            <Header> Additional Experience </Header>
             <Wrapper>
                 <TwoColumn>
                     <Text>
