@@ -218,6 +218,14 @@ const About = () => {
             <Wrapper>
                 <OneColumn>
                     <Publication
+                        title="Murmuration: Chromatic Chorus"
+                        authors="Myeongseong Kim, Ahyeon Lee, Joo-Hong Shin, Gaeun Kang, NaYeon Lee, Bora Youn, and Donghyeon Son"
+                        proceeding="ACM SIGGRAPH Asia 2026 XR (SIGGRAPH Asia '26), Article 20, 1-3"
+                        doi="https://doi.org/10.1145/3829342.3838213"
+                    > </Publication>
+                </OneColumn>
+                <OneColumn>
+                    <Publication
                         title="TF-Shell: Facilitating Physical Deformation with Iterative and Shape Memory Thermoforming for 3D Printing"
                         authors="Donghyeon Ko, Myeongseong Kim, Yoonji Kim, Woohun Lee"
                         proceeding="Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, Article 876, 1-20"
@@ -272,13 +280,13 @@ const About = () => {
                         doi="https://doi.org/10.1145/3374920.3374987"
                     > </Publication>
                 </OneColumn>
-                <OneColumn>
+                {/* <OneColumn>
                     <Publication
                         title="Snow Clock"
                         authors="Myeongseong Kim, Donghyuk Yun, Woohun Lee"
                         proceeding="Proceedings of HCIK 2020, 1323-1324"
                     > </Publication>
-                </OneColumn>                
+                </OneColumn> */}
             </Wrapper>
             <Text> &nbsp; </Text>
 
