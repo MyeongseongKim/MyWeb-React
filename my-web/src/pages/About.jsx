@@ -294,8 +294,9 @@ const About = () => {
             <Wrapper>
                 <OneColumn>
                     <Text>
-                        <Accent> "Red Dot: Best of the Best" - Red Dot Award 2023 Design Concept : Time to Snow </Accent> <br/>
-                        {/* -&nbsp; */}
+                        <Accent> "Red Dot: Best of the Best" &ndash; Red Dot Award: Design Concept 2023 </Accent> <br/>
+                        &ndash;
+                        <Accent> Time to Snow </Accent> <br/>
                         <Anchor href="https://www.red-dot.org/project/time-to-snow-65892" target="blank"> 
                             https://www.red-dot.org/project/time-to-snow-65892 
                         </Anchor>
@@ -303,18 +304,19 @@ const About = () => {
                 </OneColumn>
                 <OneColumn>
                     <Text>
-                        <Accent> "Red Dot: Best of the Best" - Red Dot Award 2021 Design Concept : Isle of Reflections </Accent> <br/>
-                        {/* -&nbsp; */}
+                        <Accent> "Red Dot: Best of the Best" &ndash; Red Dot Award: Design Concept 2021 </Accent> <br/>
+                        &ndash;
+                        <Accent> Isle of Reflections </Accent> <br/>
                         <Anchor href="https://www.red-dot.org/project/isle-of-reflections-54298" target="blank"> 
                             https://www.red-dot.org/project/isle-of-reflections-54298 
                         </Anchor>
                     </Text>
                 </OneColumn>
-                <OneColumn>    
+                {/* <OneColumn>
                     <Text>
                         <Accent> "Special Prize" - International Busan Design Award 2020 : Moleculight  </Accent>
                     </Text>               
-                </OneColumn>
+                </OneColumn> */}
             </Wrapper>
             <Text> &nbsp; </Text>
 
